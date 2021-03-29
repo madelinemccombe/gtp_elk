@@ -1,0 +1,9 @@
+# code stuff
+venv
+.idea
+.DS_Store
+*.pyc
+
+# sensitive files
+*.csv
+*.png
