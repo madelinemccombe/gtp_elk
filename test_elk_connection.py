@@ -29,16 +29,6 @@ Created on Mon Mar 29 08:27:28 2021
 # Authors: Madeline McCombe <mmccombe@paloaltonetworks.com>
 
 ##############################################################################
-# installing eland package (two options)
-
-# (1) install requirements.txt (python console)
-# pip install -r requirements.txt
-
-# (2) install just eland/elasticsearch (python console)
-# pip install eland
-
-
-##############################################################################
 # import packages
 import eland as ed
 
